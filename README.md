@@ -5,6 +5,7 @@ Over 15 years of experience in defining, planning, management and control of dev
 Specialist in enterprise software architecture
 
 🌱 I’m currently reinforcing my C# Knowledge and learning REACT
+
 💞️ I’m looking to collaborate in backend projects on C#
 
 <!---
