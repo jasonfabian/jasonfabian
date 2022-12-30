@@ -4,7 +4,7 @@ I'm IT Engineer, Specialist in Project Management and Specialist in Financial Ma
 Over 15 years of experience in defining, planning, management and control of development projects and implementation of information systems and infrastructure projects
 Specialist in enterprise software architecture
 
-🌱 I’m currently reinforcing my C# Knowledge and learning REACT
+🌱 I’m currently reinforcing my C# Knowledge and learning Angular
 
 💞️ I’m looking to collaborate in backend projects on C#
 
